@@ -13,3 +13,6 @@
 [submodule "depends/clsocket"]
 	path = depends/clsocket
 	url = git://github.com/DFHack/clsocket.git
+[submodule "plugins/yadc"]
+	path = plugins/yadc
+	url = https://github.com/lethosor/yadc-plugin
